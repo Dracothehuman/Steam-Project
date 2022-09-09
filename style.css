@@ -1,0 +1,96 @@
+body{
+    background-image: linear-gradient(to right, red , yellow);
+}
+.btn{
+    font-size:50px;
+    margin-top:10px;
+    font-style:italic;
+    font-weight:bold;
+}
+#a{
+    color:black;
+    background-color: chartreuse;
+    border-radius: 10px;
+}
+#ergy{
+    border-radius: 40px;
+    height:300px;
+    width:300px;
+    border:30px;
+    border-width: 350px;
+    border-color:antiquewhite
+}
+#fun{
+    background-color: blueviolet;
+    margin-right:100px;
+    padding-right: 60px;
+    border-bottom-right-radius:50px;
+    border-top-right-radius:50px;
+    border-color:coral;
+    border-width:40px;
+    text-anchor:left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+#noway{
+    height:80px;
+    width:90px;
+}
+#title{
+    background-color: olivedrab;
+}
+#def{
+    margin-top: 50px;
+    font-style:italic;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:aqua;
+}
+
+#term2{
+    margin-left:300px;
+    padding-left:300px;
+    background-color:aqua
+}
+#term1{
+    margin-right:300px;
+    padding-right:300px;
+    background-color: blueviolet;
+}
+#termss{
+    background-color: aquamarine;
+    border-top-right-radius: 200px;
+    border-bottom-right-radius:200px;
+    font-size:18px;
+}
+#men{
+    background-color:black;
+}
+#Pentagon{
+    font-style: italic;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+#mans{
+    border-radius: 20px;
+    border-style: double;
+    border-width: 20px;
+    height:200px;
+    width:200px;
+}
+#informative{
+    background-color:magenta;
+    border-top-left-radius: 30px;
+    border-top-right-radius:30px;
+    height:300px;
+    font-size:18px;
+}
+#intoe{
+    background-color:black;
+    color:white;
+    font-style:inherit;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#yes{
+    color:lightslategrey;
+    font-size: 15px;
+    font-style:italic;
+}
